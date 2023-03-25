@@ -20,3 +20,4 @@ Prompt engineering is a natural language processing concept that involves provid
 
 ## Examples
 - [Prompting Introduction](https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/guides/prompts-intro.md)
+- [Prompting Guides](https://github.com/dair-ai/Prompt-Engineering-Guide/tree/main/guides)
