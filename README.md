@@ -38,6 +38,7 @@ Prompt engineering is a natural language processing concept that involves provid
 ## Career
 - [Tech’s hottest new job: AI whisperer. No coding required.](https://www.washingtonpost.com/technology/2023/02/25/prompt-engineers-techs-next-big-job/) 
 - [What Does a Prompt Engineer Do?](https://medium.com/sopmac-ai/what-does-a-prompt-engineer-do-f00c6f2ad1ab)
+- ['Prompt engineering' is one of the hottest jobs in generative AI. Here's how it works.](https://www.businessinsider.com/prompt-engineering-ai-chatgpt-jobs-explained-2023-3)
 
 ## References
 - [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
