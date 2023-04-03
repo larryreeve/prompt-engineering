@@ -10,6 +10,7 @@ Prompt engineering is a natural language processing concept that involves provid
   ](https://techcrunch.com/2022/04/28/the-emerging-types-of-language-models-and-why-they-matter/)
   - [BloombergGPT: A Large Language Model for Finance](https://doi.org/10.48550/arXiv.2303.17564)
   - [Think of language models like ChatGPT as a “calculator for words”](https://simonwillison.net/2023/Apr/2/calculator-for-words/)
+
 <br>
 <br>
 
@@ -25,7 +26,19 @@ Prompt engineering is a natural language processing concept that involves provid
 <br>
 
 
-## Examples
+## Prompt Engineering
+- [A Complete Introduction to Prompt Engineering For Large Language Models](https://www.mihaileric.com/posts/a-complete-introduction-to-prompt-engineering/)
 - [Prompting Introduction](https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/guides/prompts-intro.md)
 - [Prompting Guides](https://github.com/dair-ai/Prompt-Engineering-Guide/tree/main/guides)
 - [ChatGPT Examples](https://platform.openai.com/examples)
+- [Best practices for prompt engineering with OpenAI API](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)
+- [Few-shot learning (natural language processing)](https://en.wikipedia.org/wiki/Few-shot_learning_(natural_language_processing))
+
+
+## Career
+- [Tech’s hottest new job: AI whisperer. No coding required.](https://www.washingtonpost.com/technology/2023/02/25/prompt-engineers-techs-next-big-job/) 
+- [What Does a Prompt Engineer Do?](https://medium.com/sopmac-ai/what-does-a-prompt-engineer-do-f00c6f2ad1ab)
+
+## References
+- [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
+- [Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm](https://arxiv.org/pdf/2102.07350.pdf)
