@@ -15,8 +15,13 @@ Prompt engineering is a natural language processing concept that involves provid
 
 
 ## Systems
-- [ChatGPT](https://chat.openai.com/chat)  
-  - [ChatGPT Plugins](https://platform.openai.com/docs/plugins/introduction) 
+- [ChatGPT](https://chat.openai.com/chat)
+  - [GPT-3 powers the next generation of apps](https://openai.com/blog/gpt-3-apps) 
+  - [GPT-4](https://openai.com/product/gpt-4) 
+  - [GPT-4 Technical Report](https://doi.org/10.48550/arXiv.2303.08774)
+  - [ChatGPT Plugins](https://platform.openai.com/docs/plugins/introduction)
+  - [Examples](https://platform.openai.com/examples)
+  - [Developer Documentation](https://platform.openai.com/docs/introduction)
 - [Bard](https://bard.google.com/)  
 <br>
 
