@@ -20,7 +20,6 @@ Prompt engineering is a natural language processing concept that involves provid
   - [GPT-4](https://openai.com/product/gpt-4) 
   - [GPT-4 Technical Report](https://doi.org/10.48550/arXiv.2303.08774)
   - [ChatGPT Plugins](https://platform.openai.com/docs/plugins/introduction)
-  - [Examples](https://platform.openai.com/examples)
   - [Developer Documentation](https://platform.openai.com/docs/introduction)
 - [Bard](https://bard.google.com/)  
 <br>
@@ -29,3 +28,4 @@ Prompt engineering is a natural language processing concept that involves provid
 ## Examples
 - [Prompting Introduction](https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/guides/prompts-intro.md)
 - [Prompting Guides](https://github.com/dair-ai/Prompt-Engineering-Guide/tree/main/guides)
+- [ChatGPT Examples](https://platform.openai.com/examples)
