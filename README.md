@@ -9,12 +9,14 @@ Prompt engineering is a natural language processing concept that involves provid
   - [The emerging types of language models and why they matter
   ](https://techcrunch.com/2022/04/28/the-emerging-types-of-language-models-and-why-they-matter/)
   - [BloombergGPT: A Large Language Model for Finance](https://doi.org/10.48550/arXiv.2303.17564)
+  - [Think of language models like ChatGPT as a “calculator for words”](https://simonwillison.net/2023/Apr/2/calculator-for-words/)
 <br>
 <br>
 
 
 ## Systems
 - [ChatGPT](https://chat.openai.com/chat)  
+  - [ChatGPT Plugins](https://platform.openai.com/docs/plugins/introduction) 
 - [Bard](https://bard.google.com/)  
 <br>
 
