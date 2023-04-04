@@ -21,6 +21,7 @@ Prompt engineering is a natural language processing concept that involves provid
   - [GPT-4 Technical Report](https://doi.org/10.48550/arXiv.2303.08774)
   - [ChatGPT Plugins](https://platform.openai.com/docs/plugins/introduction)
   - [Developer Documentation](https://platform.openai.com/docs/introduction)
+  - [Tokenizer](https://platform.openai.com/tokenizer)
 - [Bard](https://bard.google.com/)
 - [BloombergGPT: A Large Language Model for Finance](https://doi.org/10.48550/arXiv.2303.17564)
 <br>
