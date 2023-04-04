@@ -1,10 +1,10 @@
 ## Welcome to Prompt Engineering Pages  
 
-Prompt engineering is a natural language processing concept that involves providing textual inputs that lead to useful results.  [more...](https://en.wikipedia.org/wiki/Prompt_engineering)  
+Prompt engineering is a technique used to improve the performance and output of large language models for specific tasks or domains. It involves designing and optimizing the prompts or input text that are provided to the language model to generate desired outputs. The process of prompt engineering can involve various steps such as selecting appropriate prompts, tuning the length and complexity of the prompt, fine-tuning the model on specific data, and using techniques such as task-specific tokens, prompt conditioning, and prompt tuning to improve the accuracy and relevance of the output. Prompt engineering is becoming increasingly popular in natural language processing applications, such as text completion, summarization, question answering, and conversational AI, as it allows developers to customize large language models to specific domains and tasks, and achieve better performance and accuracy. [more...](https://en.wikipedia.org/wiki/Prompt_engineering)  
 <br>
 
 ## Background
-- **Large Language Models**: A large language model (LLM) is a language model consisting of a neural network with many parameters (typically billions of weights or more), trained on large quantities of unlabelled text using self-supervised learning.  [more...](https://en.wikipedia.org/wiki/Large_language_model)
+- **Large Language Models**: A Large Language Model (LLM) is an artificial intelligence system designed to understand and generate human language. It is a type of deep learning model that uses neural networks with a large number of parameters and is trained on massive amounts of textual data. Large Language Models are used in various natural language processing applications such as language translation, chatbots, content generation, and text summarization. [more...](https://en.wikipedia.org/wiki/Large_language_model)
 
   - [The emerging types of language models and why they matter
   ](https://techcrunch.com/2022/04/28/the-emerging-types-of-language-models-and-why-they-matter/)
