@@ -1,4 +1,4 @@
-# Named Entity Extraction
+# Named Entity Recognition
 
 
 **Prompt:**
