@@ -43,19 +43,22 @@ Prompt engineering is a technique used to improve the performance and output of 
 
 
 ## Prompt Engineering
-- [A Complete Introduction to Prompt Engineering For Large Language Models](https://www.mihaileric.com/posts/a-complete-introduction-to-prompt-engineering/)
-- [Prompting Introduction](https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/guides/prompts-intro.md)
-- [Prompting Guides](https://github.com/dair-ai/Prompt-Engineering-Guide/tree/main/guides)
-- [ChatGPT Examples](https://platform.openai.com/examples)
-- [Best practices for prompt engineering with OpenAI API](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)
-- [Few-shot learning (natural language processing)](https://en.wikipedia.org/wiki/Few-shot_learning_(natural_language_processing))
-
+- Overview
+  - [A Complete Introduction to Prompt Engineering For Large Language Models](https://www.mihaileric.com/posts/a-complete-introduction-to-prompt-engineering/)
+- ChatGPT
+  - [Prompting Introduction](https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/guides/prompts-intro.md)
+  - [Prompting Guides](https://github.com/dair-ai/Prompt-Engineering-Guide/tree/main/guides)  
+  - [Best practices for prompt engineering with OpenAI API](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)
+- Examples
+  - ChatGPT
+    - [ChatGPT Examples](https://platform.openai.com/examples)
+    - [Simulating an FTP server at ftp.disney.com with ChatGPT4](https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server/)
+- Background
+  - [Few-shot learning (natural language processing)](https://en.wikipedia.org/wiki/Few-shot_learning_(natural_language_processing))
+  - [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
+  - [Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm](https://arxiv.org/pdf/2102.07350.pdf)
 
 ## Career
 - [Tech’s hottest new job: AI whisperer. No coding required.](https://www.washingtonpost.com/technology/2023/02/25/prompt-engineers-techs-next-big-job/) 
 - [What Does a Prompt Engineer Do?](https://medium.com/sopmac-ai/what-does-a-prompt-engineer-do-f00c6f2ad1ab)
 - ['Prompt engineering' is one of the hottest jobs in generative AI. Here's how it works.](https://www.businessinsider.com/prompt-engineering-ai-chatgpt-jobs-explained-2023-3)
-
-## References
-- [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
-- [Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm](https://arxiv.org/pdf/2102.07350.pdf)
