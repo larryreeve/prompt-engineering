@@ -23,12 +23,14 @@ Please note that the exact named entities that are extracted from text may vary 
 ---
 ```
 Prompt: 
-extract named entities from the following text:
+extract named entities from the following text
+
 Cheryl Reeve (born September 20, 1966) is an American basketball head coach and President of Basketball Operations for the Minnesota Lynx of the WNBA. Reeve has coached the Lynx to four league championships. In WNBA history, she has the highest winning percentage, she has won the most games of any female coach, and she has won the most postseason games of any coach. Reeve was named the WNBA Coach of the Year in 2011, 2016, and 2020 and WNBA Basketball Executive of the Year in 2019.
 ```
 
 ```
 Response:
+
 Cheryl Reeve (person)
 September 20, 1966 (date of birth)
 American (nationality)
@@ -44,7 +46,8 @@ WNBA Basketball Executive of the Year (award)
 
 ---
 ```
-Prompt: extract named entities from the following url: https://en.wikipedia.org/wiki/Cheryl_Reeve
+Prompt: 
+extract named entities from the following url: https://en.wikipedia.org/wiki/Cheryl_Reeve
 
 ```
 
