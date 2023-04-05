@@ -2,12 +2,12 @@ Named Entity Extraction
 
 
 ```
-** Prompt: ** what are the named entities that you extract from text
+Prompt: what are the named entities that you extract from text
 
 ```
 
 ```
-** Response: ** 
+Response:
 
 As a language model, I can extract various types of named entities from text. The most common types of named entities include:
 
@@ -21,12 +21,12 @@ Please note that the exact named entities that are extracted from text may vary 
 ```
 
 ```
-** Prompt: ** extract named entities from the following url: https://en.wikipedia.org/wiki/Cheryl_Reeve
+Prompt: extract named entities from the following url: https://en.wikipedia.org/wiki/Cheryl_Reeve
 
 ```
 
 ```
-** Response: ** 
+Response:
 Cheryl Reeve: person name
 Minnesota Lynx: sports team name
 Women's National Basketball Association (WNBA): organization name
