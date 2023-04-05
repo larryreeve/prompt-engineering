@@ -9,6 +9,10 @@ Prompt engineering is a technique used to improve the performance and output of 
   - [The emerging types of language models and why they matter
   ](https://techcrunch.com/2022/04/28/the-emerging-types-of-language-models-and-why-they-matter/)
   - [Think of language models like ChatGPT as a “calculator for words”](https://simonwillison.net/2023/Apr/2/calculator-for-words/)
+  - Language Model Generation
+    - Tokenization
+      -  [SentencePiece](https://github.com/google/sentencepiece)
+      -  [Byte-Pair Encoding: Subword-based tokenization algorithm](https://towardsdatascience.com/byte-pair-encoding-subword-based-tokenization-algorithm-77828a70bee0)
 
 <br>
 <br>
