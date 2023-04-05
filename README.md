@@ -25,6 +25,7 @@ Prompt engineering is a technique used to improve the performance and output of 
   - [Summarizing books with human feedback](https://openai.com/research/summarizing-books)
 - [Bard](https://bard.google.com/)
 - [BloombergGPT: A Large Language Model for Finance](https://doi.org/10.48550/arXiv.2303.17564)
+- [Introducing LLaMA: A foundational, 65-billion-parameter large language model](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
 <br>
 
 
