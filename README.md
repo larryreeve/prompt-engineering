@@ -15,8 +15,9 @@ Prompt engineering is a technique used to improve the performance and output of 
     - [Pathways Language Model (PaLM): Scaling to 540 Billion Parameters for Breakthrough Performance](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)
   - Language Model Generation
     - Tokenization
-      -  [SentencePiece](https://github.com/google/sentencepiece)
-      -  [Byte-Pair Encoding: Subword-based tokenization algorithm](https://towardsdatascience.com/byte-pair-encoding-subword-based-tokenization-algorithm-77828a70bee0)
+      - [SentencePiece](https://github.com/google/sentencepiece)
+      - [Byte-Pair Encoding: Subword-based tokenization algorithm](https://towardsdatascience.com/byte-pair-encoding-subword-based-tokenization-algorithm-77828a70bee0)
+      - [ChatGPT Tokenizer](https://platform.openai.com/tokenizer)
 
 <br>
 <br>
@@ -29,7 +30,6 @@ Prompt engineering is a technique used to improve the performance and output of 
   - [GPT-4 Technical Report](https://doi.org/10.48550/arXiv.2303.08774)
   - [ChatGPT Plugins](https://platform.openai.com/docs/plugins/introduction)
   - [Developer Documentation](https://platform.openai.com/docs/introduction)
-  - [Tokenizer](https://platform.openai.com/tokenizer)
   - [Summarizing books with human feedback](https://openai.com/research/summarizing-books)
 - [Bard](https://bard.google.com/)
 
