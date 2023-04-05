@@ -17,7 +17,7 @@ Prompt engineering is a technique used to improve the performance and output of 
     - [Stanfored University: CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/)
   - Language Model Generation
     - Transformer
-      = [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
+      - [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
       - [A Primer in BERTology: What We Know About How BERT Works](https://arxiv.org/pdf/2002.12327.pdf)
     - Tokenization
       - [SentencePiece](https://github.com/google/sentencepiece)
