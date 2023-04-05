@@ -1,14 +1,14 @@
 # Named Entity Extraction
 
 
+**Prompt:**
 ```
-</b>Prompt</b>: what are the named entities that you extract from text
+what are the named entities that you extract from text
 
 ```
 
+**Response:**
 ```
-Response:
-
 As a language model, I can extract various types of named entities from text. The most common types of named entities include:
 
 Person names: e.g., John Smith, Jane Doe
