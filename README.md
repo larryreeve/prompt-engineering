@@ -16,6 +16,7 @@ Prompt engineering is a technique used to improve the performance and output of 
     - [GPT3: Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
     - [Princeton University: COS 597G (Fall 2022): Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
     - [Stanford University: CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/)
+    - [Eight Things To Know About Large Language Models](https://cims.nyu.edu/~sbowman/eightthings.pdf)
   - Language Model Generation
     - Transformer
       - [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
@@ -37,7 +38,9 @@ Prompt engineering is a technique used to improve the performance and output of 
   - [ChatGPT Plugins](https://platform.openai.com/docs/plugins/introduction)
   - [Developer Documentation](https://platform.openai.com/docs/introduction)
   - [Summarizing books with human feedback](https://openai.com/research/summarizing-books)
-- [Bard](https://bard.google.com/)
+  - [ChatGPT Is a Blurry JPEG of the Web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)
+- [Bard](https://bard.google.com)
+- [Bing](https://www.microsoft.com/en-us/bing)
 
 <br>
 
