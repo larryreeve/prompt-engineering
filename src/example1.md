@@ -2,7 +2,7 @@
 
 
 ```
-**Prompt**: what are the named entities that you extract from text
+Prompt: what are the named entities that you extract from text
 
 ```
 
