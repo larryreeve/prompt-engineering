@@ -2,12 +2,12 @@ Named Entity Extraction
 
 
 ```
-what are the named entities that you extract from text
+**Prompt:** what are the named entities that you extract from text
 
 ```
 
 ```
-As a language model, I can extract various types of named entities from text. The most common types of named entities include:
+**Response:** As a language model, I can extract various types of named entities from text. The most common types of named entities include:
 
 Person names: e.g., John Smith, Jane Doe
 Organization names: e.g., Microsoft Corporation, United Nations
