@@ -9,7 +9,7 @@ Prompt engineering is a technique used to improve the performance and output of 
   - [The emerging types of language models and why they matter
   ](https://techcrunch.com/2022/04/28/the-emerging-types-of-language-models-and-why-they-matter/)
   - [Think of language models like ChatGPT as a “calculator for words”](https://simonwillison.net/2023/Apr/2/calculator-for-words/)
-  -  Language Models
+  - Language Models
     - [BloombergGPT: A Large Language Model for Finance](https://doi.org/10.48550/arXiv.2303.17564)
     - [Introducing LLaMA: A foundational, 65-billion-parameter large language model](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
     - [Pathways Language Model (PaLM): Scaling to 540 Billion Parameters for Breakthrough Performance](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)
