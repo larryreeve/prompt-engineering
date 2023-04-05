@@ -13,7 +13,12 @@ Prompt engineering is a technique used to improve the performance and output of 
     - [BloombergGPT: A Large Language Model for Finance](https://doi.org/10.48550/arXiv.2303.17564)
     - [Introducing LLaMA: A foundational, 65-billion-parameter large language model](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
     - [Pathways Language Model (PaLM): Scaling to 540 Billion Parameters for Breakthrough Performance](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)
+    - [Princeton University: COS 597G (Fall 2022): Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
+    - [Stanfored University: CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/)
   - Language Model Generation
+    - Transformer
+      = [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
+      - [A Primer in BERTology: What We Know About How BERT Works](https://arxiv.org/pdf/2002.12327.pdf)
     - Tokenization
       - [SentencePiece](https://github.com/google/sentencepiece)
       - [Byte-Pair Encoding: Subword-based tokenization algorithm](https://towardsdatascience.com/byte-pair-encoding-subword-based-tokenization-algorithm-77828a70bee0)
