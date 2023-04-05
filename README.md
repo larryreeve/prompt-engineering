@@ -45,10 +45,15 @@ Prompt engineering is a technique used to improve the performance and output of 
 ## Prompt Engineering
 - Overview
   - [A Complete Introduction to Prompt Engineering For Large Language Models](https://www.mihaileric.com/posts/a-complete-introduction-to-prompt-engineering/)
-- ChatGPT
   - [Prompting Introduction](https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/guides/prompts-intro.md)
   - [Prompting Guides](https://github.com/dair-ai/Prompt-Engineering-Guide/tree/main/guides)  
+  - [Prompt Engineering Guide](https://www.promptingguide.ai/)
+  - [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering)
+  - [Learn Prompting](https://learnprompting.org/docs/intro)
+
+- ChatGPT
   - [Best practices for prompt engineering with OpenAI API](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)
+  - [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
 - Examples
   - ChatGPT
     - [ChatGPT Examples](https://platform.openai.com/examples)
@@ -62,3 +67,5 @@ Prompt engineering is a technique used to improve the performance and output of 
 - [Tech’s hottest new job: AI whisperer. No coding required.](https://www.washingtonpost.com/technology/2023/02/25/prompt-engineers-techs-next-big-job/) 
 - [What Does a Prompt Engineer Do?](https://medium.com/sopmac-ai/what-does-a-prompt-engineer-do-f00c6f2ad1ab)
 - ['Prompt engineering' is one of the hottest jobs in generative AI. Here's how it works.](https://www.businessinsider.com/prompt-engineering-ai-chatgpt-jobs-explained-2023-3)
+- [In defense of prompt engineering](https://simonwillison.net/2023/Feb/21/in-defense-of-prompt-engineering/)
+- [Hacker News: Prompt Engineering Jobs](https://news.ycombinator.com/item?id=35411037)
