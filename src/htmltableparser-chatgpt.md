@@ -3,7 +3,7 @@
 
 **Prompt:**
 ```
-write python code that extracts data from an html table using only standard python libraries 
+write python code that extracts data from a html table using only standard python libraries 
 ```
 
 **Response:**
