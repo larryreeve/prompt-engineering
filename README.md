@@ -62,6 +62,7 @@ Prompt engineering is a technique used to improve the performance and output of 
     - [ChatGPT Examples](https://platform.openai.com/examples)
     - [Simulating an FTP server at ftp.disney.com with ChatGPT4](https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server)
     - [Named Entity Recognition using ChatGPT](src/ner-chatgpt.md)
+    - [HTML Table Parser in Python](src/htmltableparser-chatgpt.md)
 - Background
   - [Few-shot learning (natural language processing)](https://en.wikipedia.org/wiki/Few-shot_learning_(natural_language_processing))
   - [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
