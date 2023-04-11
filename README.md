@@ -57,12 +57,15 @@ Prompt engineering is a technique used to improve the performance and output of 
 - ChatGPT
   - [Best practices for prompt engineering with OpenAI API](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)
   - [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
+  - [The ChatGPT Prompt Cheat Sheet: Tips, Tricks, and Examples for Crafting Effective Prompts](https://docs.kanaries.net/articles/chatgpt-prompt-cheat-sheet)
 - Examples
   - ChatGPT
     - [ChatGPT Examples](https://platform.openai.com/examples)
     - [Simulating an FTP server at ftp.disney.com with ChatGPT4](https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server)
     - [Named Entity Recognition using ChatGPT](src/ner-chatgpt.md)
     - [HTML Table Parser in Python](src/htmltableparser-chatgpt.md)
+    - [KDNuggets Cheat Sheet](https://www.kdnuggets.com/publications/sheets/ChatGPT_Cheatsheet_Costa.pdf)
+    - 
 - Background
   - [Few-shot learning (natural language processing)](https://en.wikipedia.org/wiki/Few-shot_learning_(natural_language_processing))
   - [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
