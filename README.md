@@ -13,10 +13,12 @@ Prompt engineering is a technique used to improve the performance and output of 
     - [BloombergGPT: A Large Language Model for Finance](https://doi.org/10.48550/arXiv.2303.17564)
     - [Introducing LLaMA: A foundational, 65-billion-parameter large language model](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
     - [Pathways Language Model (PaLM): Scaling to 540 Billion Parameters for Breakthrough Performance](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)
-    - [GPT3: Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
-    - [Princeton University: COS 597G (Fall 2022): Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
-    - [Stanford University: CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/)
-    - [Eight Things To Know About Large Language Models](https://cims.nyu.edu/~sbowman/eightthings.pdf)
+    - [Free Dolly](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)
+    - Education
+      - [GPT3: Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
+      - [Princeton University: COS 597G (Fall 2022): Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
+      - [Stanford University: CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/)
+      - [Eight Things To Know About Large Language Models](https://cims.nyu.edu/~sbowman/eightthings.pdf)
   - Language Model Generation
     - Transformer
       - [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
@@ -65,7 +67,8 @@ Prompt engineering is a technique used to improve the performance and output of 
     - [Named Entity Recognition using ChatGPT](src/ner-chatgpt.md)
     - [HTML Table Parser in Python](src/htmltableparser-chatgpt.md)
     - [KDNuggets Cheat Sheet](https://www.kdnuggets.com/publications/sheets/ChatGPT_Cheatsheet_Costa.pdf)
-    - 
+  - Training Corpora
+    - [Free Dolly - Prompt/Response Pairs DataSet](https://github.com/databrickslabs/dolly/tree/master/data)
 - Background
   - [Few-shot learning (natural language processing)](https://en.wikipedia.org/wiki/Few-shot_learning_(natural_language_processing))
   - [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
