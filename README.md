@@ -67,7 +67,7 @@ Prompt engineering is a technique used to improve the performance and output of 
     - [Named Entity Recognition using ChatGPT](src/ner-chatgpt.md)
     - [HTML Table Parser in Python](src/htmltableparser-chatgpt.md)
     - [KDNuggets Cheat Sheet](https://www.kdnuggets.com/publications/sheets/ChatGPT_Cheatsheet_Costa.pdf)
-  - Training Corpora
+  - Free Dolly
     - [Free Dolly - Prompt/Response Pairs DataSet](https://github.com/databrickslabs/dolly/tree/master/data)
 - Background
   - [Few-shot learning (natural language processing)](https://en.wikipedia.org/wiki/Few-shot_learning_(natural_language_processing))
