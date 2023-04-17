@@ -21,10 +21,11 @@ Prompt engineering is a technique used to improve the performance and output of 
 
 
   - Education
-    - [GPT3: Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
+    - [Understanding Large Language Models: A Cross-Section of the Most Relevant Literature To Get Up to Speed](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
+    - [Eight Things To Know About Large Language Models](https://cims.nyu.edu/~sbowman/eightthings.pdf)
     - [Princeton University: COS 597G (Fall 2022): Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
     - [Stanford University: CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/)
-    - [Eight Things To Know About Large Language Models](https://cims.nyu.edu/~sbowman/eightthings.pdf)
+
   - Language Model Generation
     - Transformer
       - [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
@@ -66,6 +67,7 @@ Prompt engineering is a technique used to improve the performance and output of 
   - [Best practices for prompt engineering with OpenAI API](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)
   - [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
   - [The ChatGPT Prompt Cheat Sheet: Tips, Tricks, and Examples for Crafting Effective Prompts](https://docs.kanaries.net/articles/chatgpt-prompt-cheat-sheet)
+  - [GPT3: Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
 - Examples
   - ChatGPT
     - [ChatGPT Examples](https://platform.openai.com/examples)
