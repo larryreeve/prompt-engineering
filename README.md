@@ -82,6 +82,8 @@ Prompt engineering is a technique used to improve the performance and output of 
   - [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
   - [Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm](https://arxiv.org/pdf/2102.07350.pdf)
   - [GPT3: Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
+  - [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html#prompt_engineering_challenges)
+  - [Solving a machine-learning mystery: A new study shows how large language models like GPT-3 can learn a new task from just a few examples, without the need for any new training data.](https://news.mit.edu/2023/large-language-models-in-context-learning-0207)
 
 ## Career
 - [Tech’s hottest new job: AI whisperer. No coding required.](https://www.washingtonpost.com/technology/2023/02/25/prompt-engineers-techs-next-big-job/) 
