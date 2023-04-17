@@ -67,7 +67,6 @@ Prompt engineering is a technique used to improve the performance and output of 
   - [Best practices for prompt engineering with OpenAI API](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)
   - [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
   - [The ChatGPT Prompt Cheat Sheet: Tips, Tricks, and Examples for Crafting Effective Prompts](https://docs.kanaries.net/articles/chatgpt-prompt-cheat-sheet)
-  - [GPT3: Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
   - [AutoGPT](https://autogpt.net/category/autogpt/)
 - Examples
   - ChatGPT
@@ -82,6 +81,7 @@ Prompt engineering is a technique used to improve the performance and output of 
   - [Few-shot learning (natural language processing)](https://en.wikipedia.org/wiki/Few-shot_learning_(natural_language_processing))
   - [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
   - [Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm](https://arxiv.org/pdf/2102.07350.pdf)
+  - [GPT3: Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
 
 ## Career
 - [Tech’s hottest new job: AI whisperer. No coding required.](https://www.washingtonpost.com/technology/2023/02/25/prompt-engineers-techs-next-big-job/) 
