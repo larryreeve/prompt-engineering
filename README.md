@@ -68,6 +68,7 @@ Prompt engineering is a technique used to improve the performance and output of 
   - [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
   - [The ChatGPT Prompt Cheat Sheet: Tips, Tricks, and Examples for Crafting Effective Prompts](https://docs.kanaries.net/articles/chatgpt-prompt-cheat-sheet)
   - [GPT3: Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
+  - [AutoGPT](https://autogpt.net/category/autogpt/)
 - Examples
   - ChatGPT
     - [ChatGPT Examples](https://platform.openai.com/examples)
