@@ -48,6 +48,7 @@ Prompt engineering is a technique used to improve the performance and output of 
   - [Developer Documentation](https://platform.openai.com/docs/introduction)
   - [Summarizing books with human feedback](https://openai.com/research/summarizing-books)
   - [ChatGPT Is a Blurry JPEG of the Web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)
+  - [Road to ChatGPT](https://www.linkedin.com/posts/ramar_the-road-to-chatgpt-an-informal-explainer-activity-7038334518004482048-h3G5?utm_source=share&utm_medium=member_desktop) [pdf](https://drive.google.com/file/d/1-Gw1QsZEVhPYSeeNYnlrcgk_FbwuUTwq/view?pli=1)
 - [Bard](https://bard.google.com)
 - [Bing](https://www.microsoft.com/en-us/bing)
 
