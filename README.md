@@ -10,6 +10,8 @@ Prompt engineering is a technique used to improve the performance and output of 
   ](https://techcrunch.com/2022/04/28/the-emerging-types-of-language-models-and-why-they-matter/)
   - [Think of language models like ChatGPT as a “calculator for words”](https://simonwillison.net/2023/Apr/2/calculator-for-words/)
   - Language Models
+    - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
+    - [BioGPT: generative pre-trained transformer for biomedical text generation and mining](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbac409/6713511?guestAccessKey=a66d9b5d-4f83-4017-bb52-405815c907b9)
     - [BloombergGPT: A Large Language Model for Finance](https://doi.org/10.48550/arXiv.2303.17564)
     - [Codex (deprecated March 2023)](https://platform.openai.com/docs/guides/code)    - [Introducing LLaMA: A foundational, 65-billion-parameter large language model](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
     - [Dramatron - Co-Writing Screenplays and Theatre Scripts with Language Models: An Evaluation by Industry Professionals](https://arxiv.org/abs/2209.14958)
@@ -18,6 +20,7 @@ Prompt engineering is a technique used to improve the performance and output of 
     - [LaMDA: Language Models for Dialog Applications](https://arxiv.org/abs/2201.08239)
     - [Pathways Language Model (PaLM): Scaling to 540 Billion Parameters for Breakthrough Performance](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)
     - [PubMedGPT](https://crfm.stanford.edu/2022/12/15/pubmedgpt.html)
+    - [The Model Hub](https://huggingface.co/docs/hub/models-the-hub)
 
 
   - Education
