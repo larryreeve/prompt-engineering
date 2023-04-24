@@ -41,7 +41,8 @@ Prompt engineering is a technique used to improve the performance and output of 
 
 ## Systems
 - [ChatGPT](https://chat.openai.com/chat)
-  - [GPT-3 powers the next generation of apps](https://openai.com/blog/gpt-3-apps) 
+  - [GPT-3 powers the next generation of apps](https://openai.com/blog/gpt-3-apps)
+  - [InstructGPT/GPT 3.5](https://arxiv.org/abs/2203.02155)
   - [GPT-4](https://openai.com/product/gpt-4) 
   - [GPT-4 Technical Report](https://doi.org/10.48550/arXiv.2303.08774)
   - [ChatGPT Plugins](https://platform.openai.com/docs/plugins/introduction)
@@ -76,6 +77,7 @@ Prompt engineering is a technique used to improve the performance and output of 
     - [Named Entity Recognition using ChatGPT](src/ner-chatgpt.md)
     - [HTML Table Parser in Python](src/htmltableparser-chatgpt.md)
     - [KDNuggets Cheat Sheet](https://www.kdnuggets.com/publications/sheets/ChatGPT_Cheatsheet_Costa.pdf)
+    - [ChatGPT Failures](https://github.com/giuven95/chatgpt-failures)
   - Free Dolly
     - [Free Dolly - Prompt/Response Pairs DataSet](https://github.com/databrickslabs/dolly/tree/master/data)
 - Background
