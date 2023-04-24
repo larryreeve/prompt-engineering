@@ -7,8 +7,8 @@ Prompt engineering is a technique used to improve the performance and output of 
 - **Large Language Models**: A Large Language Model (LLM) is an artificial intelligence system designed to understand and generate human language. It is a type of deep learning model that uses neural networks with a large number of parameters and is trained on massive amounts of textual data. Large Language Models are used in various natural language processing applications such as language translation, chatbots, content generation, and text summarization. [more...](https://en.wikipedia.org/wiki/Large_language_model)
 
   - [The emerging types of language models and why they matter
-  ](https://techcrunch.com/2022/04/28/the-emerging-types-of-language-models-and-why-they-matter/)
-  - [Think of language models like ChatGPT as a “calculator for words”](https://simonwillison.net/2023/Apr/2/calculator-for-words/)
+  ](https://techcrunch.com/2022/04/28/the-emerging-types-of-language-models-and-why-they-matter)
+  - [Think of language models like ChatGPT as a “calculator for words”](https://simonwillison.net/2023/Apr/2/calculator-for-words)
   - Language Models
     - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
     - [BioGPT: generative pre-trained transformer for biomedical text generation and mining](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbac409/6713511?guestAccessKey=a66d9b5d-4f83-4017-bb52-405815c907b9)
