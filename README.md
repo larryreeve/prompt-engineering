@@ -99,3 +99,4 @@ Prompt engineering is a technique used to improve the performance and output of 
 - ['Prompt engineering' is one of the hottest jobs in generative AI. Here's how it works.](https://www.businessinsider.com/prompt-engineering-ai-chatgpt-jobs-explained-2023-3)
 - [In defense of prompt engineering](https://simonwillison.net/2023/Feb/21/in-defense-of-prompt-engineering)
 - [Hacker News: Prompt Engineering Jobs](https://news.ycombinator.com/item?id=35411037)
+- [PromptBase - DALL·E, GPT, Midjourney, Stable Diffusion, ChatGPT Prompt Marketplace](https://promptbase.com)
