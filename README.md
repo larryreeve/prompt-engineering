@@ -39,6 +39,7 @@ Prompt engineering is a technique used to improve the performance and output of 
       - [SentencePiece](https://github.com/google/sentencepiece)
       - [Byte-Pair Encoding: Subword-based tokenization algorithm](https://towardsdatascience.com/byte-pair-encoding-subword-based-tokenization-algorithm-77828a70bee0)
       - [ChatGPT Tokenizer](https://platform.openai.com/tokenizer)
+      - [The Art of Prompt Design: Prompt Boundaries and Token Healing](https://towardsdatascience.com/the-art-of-prompt-design-prompt-boundaries-and-token-healing-3b2448b0be38)
     - Caching
       - [GPTCache : A Library for Creating Semantic Cache for LLM Queries](https://gptcache.readthedocs.io/en/latest/)
 
