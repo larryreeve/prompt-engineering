@@ -19,10 +19,12 @@ Prompt engineering is a technique used to improve the performance and output of 
     - [Dramatron - Co-Writing Screenplays and Theatre Scripts with Language Models: An Evaluation by Industry Professionals](https://arxiv.org/abs/2209.14958)
     - [Free Dolly](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)
     - [Galactica: A Large Language Model for Science](https://arxiv.org/abs/2201.08239)
+    - [Koala: A Dialogue Model for Academic Research](https://bair.berkeley.edu/blog/2023/04/03/koala/)
     - [LaMDA: Language Models for Dialog Applications](https://arxiv.org/abs/2201.08239)
     - [Pathways Language Model (PaLM): Scaling to 540 Billion Parameters for Breakthrough Performance](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)
     - [PubMedGPT](https://crfm.stanford.edu/2022/12/15/pubmedgpt.html)
     - [The Model Hub](https://huggingface.co/docs/hub/models-the-hub)
+    - [Vicuna](https://lmsys.org/blog/2023-03-30-vicuna/) [GitHub](https://github.com/lm-sys/FastChat)
 
 
   - Education
@@ -59,7 +61,8 @@ Prompt engineering is a technique used to improve the performance and output of 
   - [ChatGPT Is a Blurry JPEG of the Web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)
   - [Road to ChatGPT](https://www.linkedin.com/posts/ramar_the-road-to-chatgpt-an-informal-explainer-activity-7038334518004482048-h3G5?utm_source=share&utm_medium=member_desktop)   [*pdf*](https://drive.google.com/file/d/1-Gw1QsZEVhPYSeeNYnlrcgk_FbwuUTwq/view?pli=1)
 - [Bard](https://bard.google.com)
-- [Bing](https://www.microsoft.com/en-us/bing)
+- [Bing Chat](https://www.microsoft.com/en-us/bing)
+- [Claude](https://www.anthropic.com/index/introducing-claude)
 
 <br>
 
