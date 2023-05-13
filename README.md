@@ -21,6 +21,7 @@ Prompt engineering is a technique used to improve the performance and output of 
     - [Galactica: A Large Language Model for Science](https://arxiv.org/abs/2201.08239)
     - [Koala: A Dialogue Model for Academic Research](https://bair.berkeley.edu/blog/2023/04/03/koala/)
     - [LaMDA: Language Models for Dialog Applications](https://arxiv.org/abs/2201.08239)
+    - [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
     - [Pathways Language Model (PaLM): Scaling to 540 Billion Parameters for Breakthrough Performance](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)
     - [PubMedGPT](https://crfm.stanford.edu/2022/12/15/pubmedgpt.html)
     - [The Model Hub](https://huggingface.co/docs/hub/models-the-hub)
