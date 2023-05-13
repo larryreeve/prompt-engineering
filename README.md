@@ -35,16 +35,24 @@ Prompt engineering is a technique used to improve the performance and output of 
     - [Stanford University: CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/)
 
   - Language Model Generation
-    - Transformer
-      - [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
-      - [A Primer in BERTology: What We Know About How BERT Works](https://arxiv.org/pdf/2002.12327.pdf)
+    - Caching
+      - [GPTCache : A Library for Creating Semantic Cache for LLM Queries](https://gptcache.readthedocs.io/en/latest/)
     - Tokenization
       - [SentencePiece](https://github.com/google/sentencepiece)
       - [Byte-Pair Encoding: Subword-based tokenization algorithm](https://towardsdatascience.com/byte-pair-encoding-subword-based-tokenization-algorithm-77828a70bee0)
       - [ChatGPT Tokenizer](https://platform.openai.com/tokenizer)
       - [The Art of Prompt Design: Prompt Boundaries and Token Healing](https://towardsdatascience.com/the-art-of-prompt-design-prompt-boundaries-and-token-healing-3b2448b0be38)
-    - Caching
-      - [GPTCache : A Library for Creating Semantic Cache for LLM Queries](https://gptcache.readthedocs.io/en/latest/)
+    - Training Corpora
+      - [Anthropic Harmfulness & Helpfulness](https://huggingface.co/datasets/Anthropic/hh-rlhf)
+      - [Human ChatGPT Comparison Corpus (HC3)](https://arxiv.org/pdf/2301.07597.pdf)
+      - [OpenAI WebGPT](https://huggingface.co/datasets/openai/webgpt_comparisons)
+      - [OpenAI Summarization](https://huggingface.co/datasets/openai/summarize_from_feedback)
+      - [Open Instruction Generalist (OIG)](https://laion.ai/blog/oig-dataset/)
+      - [ShareGPT](https://sharegpt.com/)
+      - [Stanford Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)
+    - Transformer
+      - [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
+      - [A Primer in BERTology: What We Know About How BERT Works](https://arxiv.org/pdf/2002.12327.pdf)
 
 <br>
 <br>
