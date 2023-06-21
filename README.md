@@ -27,6 +27,8 @@ Prompt engineering is a technique used to improve the performance and output of 
     - [The Model Hub](https://huggingface.co/docs/hub/models-the-hub)
     - [Vicuna](https://lmsys.org/blog/2023-03-30-vicuna/) [GitHub](https://github.com/lm-sys/FastChat)
 
+  - Architecture
+    - [Emerging Architectures for LLM Applications](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications)
 
   - Education
     - [Understanding Large Language Models: A Cross-Section of the Most Relevant Literature To Get Up to Speed](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
