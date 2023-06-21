@@ -30,6 +30,9 @@ Prompt engineering is a technique used to improve the performance and output of 
   - Architecture
     - [Emerging Architectures for LLM Applications](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications)
 
+  - Embeddings: numerical representations of concepts converted to number sequences, which make it easy for computers to understand the relationships between those concepts.
+    - [OpenAI - text-embedding-ada-002](https://openai.com/blog/new-and-improved-embedding-model)
+
   - Education
     - [Understanding Large Language Models: A Cross-Section of the Most Relevant Literature To Get Up to Speed](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
     - [Eight Things To Know About Large Language Models](https://cims.nyu.edu/~sbowman/eightthings.pdf)
