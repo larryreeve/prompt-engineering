@@ -80,6 +80,7 @@ Prompt engineering is a technique used to improve the performance and output of 
 - [Bard](https://bard.google.com)
 - [Bing Chat](https://www.microsoft.com/en-us/bing)
 - [Claude](https://www.anthropic.com/index/introducing-claude)
+- [HeyPi](https://heypi.com/talk)
 
 <br>
 
