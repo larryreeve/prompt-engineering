@@ -9,6 +9,7 @@ Prompt engineering is a technique used to improve the performance and output of 
   - [The emerging types of language models and why they matter
   ](https://techcrunch.com/2022/04/28/the-emerging-types-of-language-models-and-why-they-matter)
   - [Think of language models like ChatGPT as a “calculator for words”](https://simonwillison.net/2023/Apr/2/calculator-for-words)
+  - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
   - Language Models
     - [AI / ML / LLM / Transformer Models Timeline and List](https://ai.v-gar.de/ml/transformer/timeline/)
     - [Alexa Teacher Model](https://github.com/amazon-science/alexa-teacher-models)
@@ -37,6 +38,7 @@ Prompt engineering is a technique used to improve the performance and output of 
     - [What are embeddings](https://vickiboykis.com/what_are_embeddings)
 
   - Education
+    - [The Busy Person's Introduction to LLMs - Andrej Karpathy](https://www.youtube.com/watch?v=zjkBMFhNj_g)
     - [Understanding Large Language Models: A Cross-Section of the Most Relevant Literature To Get Up to Speed](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
     - [Eight Things To Know About Large Language Models](https://cims.nyu.edu/~sbowman/eightthings.pdf)
     - [Princeton University: COS 597G (Fall 2022): Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
